@@ -2,17 +2,17 @@
 
 ### Mapas criados com o software Qgis 
 
-+ Bacias_hidrográficas
+#### Bacias_hidrográficas
 <img src='Bacias_hidrográficas.png'></img>
 
-+ Biomas_Brasileiros
+### Biomas_Brasileiros
 <img src='Bioma_Brasil.png'></img>
 
-+ Zonas climáticas
+### Zonas climáticas
 <img src='Climas Zonais.jpg'></img>
 
-+ Hipsometria
+### Hipsometria
 <img src='Hipsometria_Restinga_Seca.png'></img>
 
-+ Solos
+### Solos
 <img src='Solos.jpg'></img>
